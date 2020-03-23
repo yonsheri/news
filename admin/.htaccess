@@ -1,6 +1,6 @@
 AuthType Basic
 AuthName "Admin Panel"
-AuthUserFile C:/OSPanel/domains/blog/admin/.htpasswd
+AuthUserFile C:/OSPanel/domains/news/admin/.htpasswd
 Require valid-user
 
 
